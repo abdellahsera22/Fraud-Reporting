@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "Your Details": "Your Details",
+    "Enter Your Full Name:": "Enter Your Full Name:",
+    "Your Address:": "Your Address:",
+    "Your Phone Number:": "Your Phone Number:",
+    "Your Email Address:": "Your Email Address:",
+    "Your TinNumber Optional:": "Your Tin Number (Optional):",
+    "Details about the Person/Company that you're reporting about": "Details about the Person/Company that you're reporting about",
+    "Name of Person/Company:": "Name of Person/Company:",
+    "Address of Person/Company:": "Address of Person/Company:",
+    "Contact Information:": "Contact Information:",
+    "The Tax Evasion activity type:": "The Tax Evasion activity type:",
+    "Underreporting Income": "Underreporting Income",
+    "Offshore Tax Evasion": "Offshore Tax Evasion",
+    "Unreported or Underreported Sales": "Unreported or Underreported Sales",
+    "Employment Tax Evasion": "Employment Tax Evasion",
+    "False Deductions and Expenses": "False Deductions and Expenses",
+    "Details about the incident": "Details about the incident",
+    "Describe what you saw in detail:": "Describe what you saw in detail:",
+    "Date of the incident:": "Date of the incident:",
+    "Select the type of proof": "Select the type of proof",
+    "Picture": "Picture",
+    "PDF/Doc": "PDF/Doc",
+    "Provide any documentation/images that can be used as proof:": "Provide any documentation/images that can be used as proof:",
+    "Submit": "Submit"
+  }
+}

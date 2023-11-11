@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.formLabel {
+  @apply w-72 text-black my-4 font-bold text-lg;
+}
+
+.Formh1 {
+  @apply text-2xl font-semibold text-blue-300;
+}
+
+.input {
+  @apply border-gray-300 border-2 w-48 my-4 rounded-md h-10 p-1;
+}
+
+.btn {
+  @apply border-none bg-green-500 p-2 rounded-md text-white hover:text-black hover:bg-green-200;
+}
+.error {
+  @apply text-red-500 text-sm;
+}
+
+.main {
+  @apply mx-20 md:mx-40 md:my-7;
+}
+
+.firstForm {
+  @apply md:grid md:grid-cols-2;
+}
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
